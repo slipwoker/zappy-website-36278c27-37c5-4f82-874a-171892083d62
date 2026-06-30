@@ -1,0 +1,109 @@
+# החנות של מרכז קרן אור — Generative Engine Optimization Map
+
+> Keren Sela is a holistic wellness brand blending spirituality, longevity, and natural healing. The brand offers a curated mix of spiritual items, longevity products, medicinal mushrooms, and a self-authored book. The brand carries a deeply personal and authentic tone, rooted in alternative wellness, inner growth, and conscious living. The existing website (kerensela.com) reflects a warm, personal, and spiritually-oriented identity.
+
+---
+
+## Pages
+
+### בית
+https://-36278c27.zappy5.app
+הכניסה שלכם לעולם של ריפוי טבעי, פטריות מרפא ומוצרי רוחניות אונליין. קרן סלע מזמינה אתכם למסע אישי של צמיחה פנימית, אריכות ימים וחיים מודעים. היכנסו עכשיו וגלו אוצרות נדירים.
+
+### אודות קרן
+https://-36278c27.zappy5.app/about
+קרן סלע פותחת את הלב ומשתפת במסע האישי שהוביל ליצירת מותג הריפוי ההוליסטי. גלו את הפילוסופיה, החזון והחיבור העמוק לפטריות מרפא לבריאות, רוחניות וצמיחה מודעת.
+
+### מדריך אוספים
+https://-36278c27.zappy5.app/collections-guide
+המדריך המקיף שיעשה לכם סדר בעולם פטריות המרפא. למדו להתאים את הפטרייה המושלמת לצרכים האישיים שלכם, לצלול לעומק הריפוי הטבעי ולגלות איך לשלב אותן באורח חיים מודע ובריא יותר.
+
+### צור קשר
+https://-36278c27.zappy5.app/contact
+יש לכם שאלה על פטריות מרפא, מוצרי רוחניות אונליין או הספר של קרן סלע? אנחנו כאן כדי להקשיב, לייעץ ולתמוך בכם בדרך לריפוי טבעי וצמיחה אישית. צרו קשר עוד היום והתחילו את השינוי.
+
+### Products
+https://-36278c27.zappy5.app/products
+המוצרים שלנו - החנות של מרכז קרן אור
+
+### Cart
+https://-36278c27.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-36278c27.zappy5.app/checkout
+תשלום
+
+### Login
+https://-36278c27.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-36278c27.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-36278c27.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-36278c27.zappy5.app/product/:slug
+פרטי המוצר - החנות של מרכז קרן אור
+
+### Category
+https://-36278c27.zappy5.app/category/:slug
+מוצרים - החנות של מרכז קרן אור
+
+### תודה שפנית אלינו
+https://-36278c27.zappy5.app/thank-you
+החנות של מרכז קרן אור - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-36278c27.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-36278c27.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-36278c27.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About החנות של מרכז קרן אור
+Keren Sela is a holistic wellness brand blending spirituality, longevity, and natural healing. The brand offers a curated mix of spiritual items, longevity products, medicinal mushrooms, and a self-authored book. The brand carries a deeply personal and authentic tone, rooted in alternative wellness, inner growth, and conscious living. The existing website (kerensela.com) reflects a warm, personal, and spiritually-oriented identity.
+
+## Target Audience
+- מחפשי רוחניות
+- חובבי בריאות הוליסטית
+- מטפלים ברפואה אלטרנטיבית
+- מדריכי יוגה ומדיטציה
+- צרכנים ידידותיים לסביבה
+- חובבי בריאות
+- אנשי לונג'ביטי
+- אנשים רוחניים
+
+## Industry
+Holistic Wellness & Spirituality E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-36278c27.zappy5.app/sitemap.xml
+- Robots: https://-36278c27.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-36278c27.zappy5.app/llms-full.txt
+- Products (JSON): https://-36278c27.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-36278c27.zappy5.app/product-feed.xml
