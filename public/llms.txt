@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-36278c27.zappy5.app
+https://example.com
 הכניסה שלכם לעולם של ריפוי טבעי, פטריות מרפא ומוצרי רוחניות אונליין. קרן סלע מזמינה אתכם למסע אישי של צמיחה פנימית, אריכות ימים וחיים מודעים. היכנסו עכשיו וגלו אוצרות נדירים.
 
 ### אודות קרן
-https://-36278c27.zappy5.app/about
+https://example.com/about
 קרן סלע פותחת את הלב ומשתפת במסע האישי שהוביל ליצירת מותג הריפוי ההוליסטי. גלו את הפילוסופיה, החזון והחיבור העמוק לפטריות מרפא לבריאות, רוחניות וצמיחה מודעת.
 
 ### מדריך אוספים
-https://-36278c27.zappy5.app/collections-guide
+https://example.com/collections-guide
 המדריך המקיף שיעשה לכם סדר בעולם פטריות המרפא. למדו להתאים את הפטרייה המושלמת לצרכים האישיים שלכם, לצלול לעומק הריפוי הטבעי ולגלות איך לשלב אותן באורח חיים מודע ובריא יותר.
 
 ### צור קשר
-https://-36278c27.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על פטריות מרפא, מוצרי רוחניות אונליין או הספר של קרן סלע? אנחנו כאן כדי להקשיב, לייעץ ולתמוך בכם בדרך לריפוי טבעי וצמיחה אישית. צרו קשר עוד היום והתחילו את השינוי.
 
 ### Products
-https://-36278c27.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - החנות של מרכז קרן אור
 
 ### Cart
-https://-36278c27.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-36278c27.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-36278c27.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-36278c27.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-36278c27.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-36278c27.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - החנות של מרכז קרן אור
 
 ### Category
-https://-36278c27.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - החנות של מרכז קרן אור
 
 ### תודה שפנית אלינו
-https://-36278c27.zappy5.app/thank-you
+https://example.com/thank-you
 החנות של מרכז קרן אור - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-36278c27.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-36278c27.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-36278c27.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Holistic Wellness & Spirituality E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-36278c27.zappy5.app/sitemap.xml
-- Robots: https://-36278c27.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-36278c27.zappy5.app/llms-full.txt
-- Products (JSON): https://-36278c27.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-36278c27.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
