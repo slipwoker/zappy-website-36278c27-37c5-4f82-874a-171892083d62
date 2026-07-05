@@ -4,12 +4,25 @@
     <title>החנות של מרכז קרן אור</title>
     <link>https://ha-khanut-shel-merkaz-keren-or.zappy5.app</link>
     <description>Product feed for החנות של מרכז קרן אור</description>
-    <lastBuildDate>Sun, 05 Jul 2026 14:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 14:19:33 GMT</lastBuildDate>
     <item>
-      <g:id>c598f2af-b2bd-4236-b358-63234b67e85b</g:id>
-      <g:title>זנב התרנגול</g:title>
+      <g:id>c598f2af-b2bd-4236-b358-63234b67e85b__d83e4ece-9ef4-4f00-8bf2-4c7eb10987dd</g:id>
+      <g:title>זנב התרנגול - כמוסות</g:title>
       <g:description>זנב התרנגול</g:description>
       <g:link>https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/znb-htrngvl-5uiqrv</g:link>
+      <g:item_group_id>c598f2af-b2bd-4236-b358-63234b67e85b</g:item_group_id>
+      <g:availability>in_stock</g:availability>
+      <g:price>250.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>החנות של מרכז קרן אור</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>c598f2af-b2bd-4236-b358-63234b67e85b__b72d51c2-cac5-4509-bf03-de689de208ed</g:id>
+      <g:title>זנב התרנגול - נוזלי</g:title>
+      <g:description>זנב התרנגול</g:description>
+      <g:link>https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/znb-htrngvl-5uiqrv</g:link>
+      <g:item_group_id>c598f2af-b2bd-4236-b358-63234b67e85b</g:item_group_id>
       <g:availability>in_stock</g:availability>
       <g:price>250.00 ILS</g:price>
       <g:condition>new</g:condition>
