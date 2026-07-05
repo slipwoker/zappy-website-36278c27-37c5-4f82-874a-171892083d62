@@ -4,6 +4,17 @@
     <title>החנות של מרכז קרן אור</title>
     <link>https://example.com</link>
     <description>Product feed for החנות של מרכז קרן אור</description>
-    <lastBuildDate>Tue, 30 Jun 2026 06:13:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 13:41:09 GMT</lastBuildDate>
+    <item>
+      <g:id>482346ef-c7fe-418a-83ae-61df58c9d7ab__a3c7af2b-bdb6-4c48-8135-8d40629b872e</g:id>
+      <g:title>פטרייה אחת (קורדיספס, ריישי, זנב התרנגול, רעמת האריה) - New Variant 1</g:title>
+      <g:description>פטרייה אחת (קורדיספס, ריישי, זנב התרנגול, רעמת האריה)</g:description>
+      <g:link>https://example.com/product/ptryyh-acht-kvrdysps-ryyshy-znb-htrngvl-ramt-haryh-8wcytj</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>250.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>החנות של מרכז קרן אור</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
