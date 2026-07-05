@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://example.com
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app
 הכניסה שלכם לעולם של ריפוי טבעי, פטריות מרפא ומוצרי רוחניות אונליין. קרן סלע מזמינה אתכם למסע אישי של צמיחה פנימית, אריכות ימים וחיים מודעים. היכנסו עכשיו וגלו אוצרות נדירים.
 
 ### אודות קרן
-https://example.com/about
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/about
 קרן סלע פותחת את הלב ומשתפת במסע האישי שהוביל ליצירת מותג הריפוי ההוליסטי. גלו את הפילוסופיה, החזון והחיבור העמוק לפטריות מרפא לבריאות, רוחניות וצמיחה מודעת.
 
 ### מדריך אוספים
-https://example.com/collections-guide
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/collections-guide
 המדריך המקיף שיעשה לכם סדר בעולם פטריות המרפא. למדו להתאים את הפטרייה המושלמת לצרכים האישיים שלכם, לצלול לעומק הריפוי הטבעי ולגלות איך לשלב אותן באורח חיים מודע ובריא יותר.
 
 ### צור קשר
-https://example.com/contact
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/contact
 יש לכם שאלה על פטריות מרפא, מוצרי רוחניות אונליין או הספר של קרן סלע? אנחנו כאן כדי להקשיב, לייעץ ולתמוך בכם בדרך לריפוי טבעי וצמיחה אישית. צרו קשר עוד היום והתחילו את השינוי.
 
 ### Products
-https://example.com/products
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/products
 המוצרים שלנו - החנות של מרכז קרן אור
 
 ### Cart
-https://example.com/cart
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/:slug
 פרטי המוצר - החנות של מרכז קרן אור
 
 ### Category
-https://example.com/category/:slug
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/category/:slug
 מוצרים - החנות של מרכז קרן אור
 
 ### תודה שפנית אלינו
-https://example.com/thank-you
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/thank-you
 החנות של מרכז קרן אור - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### פטרייה אחת (קורדיספס, ריישי, זנב התרנגול, רעמת האריה)
-https://example.com/product/ptryyh-acht-kvrdysps-ryyshy-znb-htrngvl-ramt-haryh-8wcytj
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/ptryyh-acht-kvrdysps-ryyshy-znb-htrngvl-ramt-haryh-8wcytj
 - Price: 250.00 ILS
 - Availability: In stock
 
@@ -107,8 +107,8 @@ Holistic Wellness & Spirituality E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://ha-khanut-shel-merkaz-keren-or.zappy5.app/sitemap.xml
+- Robots: https://ha-khanut-shel-merkaz-keren-or.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ha-khanut-shel-merkaz-keren-or.zappy5.app/llms-full.txt
+- Products (JSON): https://ha-khanut-shel-merkaz-keren-or.zappy5.app/products.json
+- Products (Google Merchant RSS): https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product-feed.xml
