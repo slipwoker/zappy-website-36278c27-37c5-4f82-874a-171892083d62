@@ -78,8 +78,8 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 1**
 
-### פטרייה אחת (קורדיספס, ריישי, זנב התרנגול, רעמת האריה)
-https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/ptryyh-acht-kvrdysps-ryyshy-znb-htrngvl-ramt-haryh-8wcytj
+### קורדיספס
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/kvrdysps-4n66cq
 - Price: 250.00 ILS
 - Availability: In stock
 

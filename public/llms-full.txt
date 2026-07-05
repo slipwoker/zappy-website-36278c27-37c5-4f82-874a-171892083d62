@@ -5532,8 +5532,8 @@ Description: החנות של מרכז קרן אור - תודה שפנית אלי
 
 ## Product Catalog
 
-### פטרייה אחת (קורדיספס, ריישי, זנב התרנגול, רעמת האריה)
-URL: https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/ptryyh-acht-kvrdysps-ryyshy-znb-htrngvl-ramt-haryh-8wcytj
+### קורדיספס
+URL: https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/kvrdysps-4n66cq
 Price: 250.00 ILS
 Availability: In stock
 
