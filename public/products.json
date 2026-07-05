@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T14:49:22.931Z",
+  "generated_at": "2026-07-05T14:49:57.760Z",
   "base_url": "https://ha-khanut-shel-merkaz-keren-or.zappy5.app",
   "currency": "ILS",
   "count": 6,
@@ -29,10 +29,10 @@
     },
     {
       "id": "06f1dbf3-feeb-463e-8243-14e73c038e10",
-      "slug": "tsagh-t0c0sv",
+      "slug": "tsagh-mzgw5w",
       "name": "צ'אגה",
       "name_translations": {},
-      "description": "",
+      "description": "<p>🌟חיזוק מערכת החיסון והגנה מפני מחלות ויראליות.</p><p>🌟ניקוי רעלים והגנה על הכבד.</p><p>🌟תמיכה במערכת העיכול ובמיקרוביוטה.</p><p>🌟עידוד ריפוי תאי ושמירה על רמות אנרגיה יציבות.</p><p>&nbsp;🌟הגנה מפני נזקי רדיקלים חופשיים ותמיכה בבריאות העור.</p>",
       "short_description": "פטריית צ'אגה (Inonotus obliquus) נחשבת ל\"מלכת הפטריות\" בזכות עושר נוגדי החמצון שבה. תומכת במערכת החיסון, מגינה מפני נזק חמצוני ומסייעת לשמור על חיוניות ובריאות כללית.\n\nשיטת המיצוי הבלעדית FBE מבטיחה 100% פטריות וריכוז חומרים פעילים גבוה במיוחד.",
       "sku": null,
       "brand": null,
@@ -45,9 +45,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/tsagh-t0c0sv",
+      "url": "https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/tsagh-mzgw5w",
       "categories": [],
-      "updated_at": "2026-07-05T14:41:05.796Z"
+      "updated_at": "2026-07-05T14:49:26.402Z"
     },
     {
       "id": "c598f2af-b2bd-4236-b358-63234b67e85b",
