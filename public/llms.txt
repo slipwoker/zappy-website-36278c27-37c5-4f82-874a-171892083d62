@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 5**
+**Total active products: 6**
+
+### טרמלה
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/trmlh-xafgq1
+- Price: 280.00 ILS
+- Availability: In stock
+- Description: פטריית טרמלה (Tremella fuciformis) מכונה גם "פטריית היופי" בזכות יכולתה לשמור על לחות העור וגמישותו. עשירה בפוליסכרידים התומכים בבריאות העור, בשמירה על מראה צעיר וברק טבעי. שיטת המיצוי הבלעדית FBE מבטיחה 100% פטריות וריכוז חומרים פעילים גבוה במיוחד.
+- Image: https://ha-khanut-shel-merkaz-keren-or.zappy5.app/assets/product-1783262528022-7iihds.webp
 
 ### צ'אגה
 https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/tsagh-t0c0sv

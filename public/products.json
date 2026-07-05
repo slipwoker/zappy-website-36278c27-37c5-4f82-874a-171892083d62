@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T14:41:37.824Z",
+  "generated_at": "2026-07-05T14:42:48.135Z",
   "base_url": "https://ha-khanut-shel-merkaz-keren-or.zappy5.app",
   "currency": "ILS",
-  "count": 5,
+  "count": 6,
   "products": [
+    {
+      "id": "b3a54909-47f6-40f3-9042-f583353b8d99",
+      "slug": "trmlh-xafgq1",
+      "name": "טרמלה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "פטריית טרמלה (Tremella fuciformis) מכונה גם \"פטריית היופי\" בזכות יכולתה לשמור על לחות העור וגמישותו. עשירה בפוליסכרידים התומכים בבריאות העור, בשמירה על מראה צעיר וברק טבעי.\n\nשיטת המיצוי הבלעדית FBE מבטיחה 100% פטריות וריכוז חומרים פעילים גבוה במיוחד.",
+      "sku": null,
+      "brand": null,
+      "price": 280,
+      "base_price": 280,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://ha-khanut-shel-merkaz-keren-or.zappy5.app/assets/product-1783262528022-7iihds.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/trmlh-xafgq1",
+      "categories": [],
+      "updated_at": "2026-07-05T14:42:16.142Z"
+    },
     {
       "id": "06f1dbf3-feeb-463e-8243-14e73c038e10",
       "slug": "tsagh-t0c0sv",
