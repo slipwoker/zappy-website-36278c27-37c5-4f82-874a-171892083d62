@@ -5714,6 +5714,13 @@ Description: החנות של מרכז קרן אור - תודה שפנית אלי
 
 ## Product Catalog
 
+### ריישי
+URL: https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/ryyshy-zpkzak
+Price: 250.00 ILS
+Availability: In stock
+
+---
+
 ### רעמת האריה
 URL: https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/ramt-haryh-jekcaa
 Price: 250.00 ILS

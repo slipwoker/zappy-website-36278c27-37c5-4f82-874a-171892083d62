@@ -1,10 +1,30 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-05T14:16:11.036Z",
+  "generated_at": "2026-07-05T14:18:26.190Z",
   "base_url": "https://ha-khanut-shel-merkaz-keren-or.zappy5.app",
   "currency": "ILS",
-  "count": 2,
+  "count": 3,
   "products": [
+    {
+      "id": "d273c6a0-5953-459b-99de-39fbbac5e8af",
+      "slug": "ryyshy-zpkzak",
+      "name": "ריישי",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 250,
+      "base_price": 250,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/ryyshy-zpkzak",
+      "categories": [],
+      "updated_at": "2026-07-05T14:18:02.832Z"
+    },
     {
       "id": "2423c235-76b1-43de-9f96-385afd9fc96b",
       "slug": "ramt-haryh-jekcaa",
