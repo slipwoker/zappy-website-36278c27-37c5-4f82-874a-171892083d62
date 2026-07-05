@@ -4,12 +4,25 @@
     <title>החנות של מרכז קרן אור</title>
     <link>https://ha-khanut-shel-merkaz-keren-or.zappy5.app</link>
     <description>Product feed for החנות של מרכז קרן אור</description>
-    <lastBuildDate>Sun, 05 Jul 2026 14:02:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 14:04:34 GMT</lastBuildDate>
     <item>
-      <g:id>482346ef-c7fe-418a-83ae-61df58c9d7ab</g:id>
-      <g:title>קורדיספס</g:title>
+      <g:id>482346ef-c7fe-418a-83ae-61df58c9d7ab__5b5234f2-a92a-40e3-be29-def0eaac04bf</g:id>
+      <g:title>קורדיספס - נוזלי</g:title>
       <g:description>קורדיספס</g:description>
       <g:link>https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/kvrdysps-4n66cq</g:link>
+      <g:item_group_id>482346ef-c7fe-418a-83ae-61df58c9d7ab</g:item_group_id>
+      <g:availability>in_stock</g:availability>
+      <g:price>250.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>החנות של מרכז קרן אור</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>482346ef-c7fe-418a-83ae-61df58c9d7ab__1215bc49-82c8-41b2-8032-471784dc6dc7</g:id>
+      <g:title>קורדיספס - כמוסה</g:title>
+      <g:description>קורדיספס</g:description>
+      <g:link>https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/kvrdysps-4n66cq</g:link>
+      <g:item_group_id>482346ef-c7fe-418a-83ae-61df58c9d7ab</g:item_group_id>
       <g:availability>in_stock</g:availability>
       <g:price>250.00 ILS</g:price>
       <g:condition>new</g:condition>
