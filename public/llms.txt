@@ -76,7 +76,12 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 2**
+
+### רעמת האריה
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/ramt-haryh-jekcaa
+- Price: 250.00 ILS
+- Availability: In stock
 
 ### קורדיספס
 https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/kvrdysps-4n66cq
