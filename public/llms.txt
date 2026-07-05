@@ -79,9 +79,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 4**
 
 ### זנב התרנגול
-https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/znb-htrngvl-5uiqrv
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/znb-htrngvl-ezp9sl
 - Price: 250.00 ILS
 - Availability: In stock
+- Description: פטריית זנב התרנגול (Turkey Tail – Trametes versicolor) נחשבת לאחת החשובות לחיזוק מערכת החיסון. עשירה בבטא-גלוקנים ורכיבים פעילים התומכים בהגנה טבעית ובאיזון הגוף. שיטת המיצוי הבלעדית FBE מבטיחה 100% פטריות וריכוז חומרים פעילים גבוה במיוחד.
+- Image: https://ha-khanut-shel-merkaz-keren-or.zappy5.app/assets/product-1783262335268-c7w63v.webp
 
 ### ריישי
 https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/ryyshy-g5l4vr
