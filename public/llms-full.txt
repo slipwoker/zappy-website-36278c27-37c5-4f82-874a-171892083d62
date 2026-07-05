@@ -5697,6 +5697,13 @@ Description: החנות של מרכז קרן אור - תודה שפנית אלי
 
 ## Product Catalog
 
+### צ'אגה
+URL: https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/tsagh-t0c0sv
+Price: 280.00 ILS
+Availability: In stock
+
+---
+
 ### זנב התרנגול
 URL: https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/znb-htrngvl-ezp9sl
 Price: 250.00 ILS

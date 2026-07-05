@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 4**
+**Total active products: 5**
+
+### צ'אגה
+https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/tsagh-t0c0sv
+- Price: 280.00 ILS
+- Availability: In stock
+- Description: פטריית צ'אגה (Inonotus obliquus) נחשבת ל"מלכת הפטריות" בזכות עושר נוגדי החמצון שבה. תומכת במערכת החיסון, מגינה מפני נזק חמצוני ומסייעת לשמור על חיוניות ובריאות כללית. שיטת המיצוי הבלעדית FBE מבטיחה 100% פטריות וריכוז חומרים פעילים גבוה במיוחד.
+- Image: https://ha-khanut-shel-merkaz-keren-or.zappy5.app/assets/product-1783262455732-q94l3.webp
 
 ### זנב התרנגול
 https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/znb-htrngvl-ezp9sl
