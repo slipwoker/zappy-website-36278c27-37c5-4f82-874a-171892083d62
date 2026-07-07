@@ -1391,6 +1391,8 @@ window.onload = function() {
 ;
 
 ;
+
+;
 /* ==ZAPPY E-COMMERCE JS START== */
 // E-commerce functionality
 (function() {
@@ -6194,7 +6196,8 @@ function stripHtmlToText(html) {
       var eligibleSubtotal = 0;
       for (var j = 0; j < cart.length; j++) {
         var item = cart[j];
-        if (appliesToAll || ids.indexOf(item.id) !== -1) {
+        var itemProductId = item.productId || item.id;
+        if (appliesToAll || ids.indexOf(itemProductId) !== -1) {
           eligibleSubtotal += getCartLineTotal(item);
         }
       }
@@ -6210,7 +6213,7 @@ function stripHtmlToText(html) {
         if (requireAllEligible && !appliesToAll) {
           var allEligible = cart.length > 0;
           for (var k = 0; k < cart.length; k++) {
-            if (ids.indexOf(cart[k].id) === -1) { allEligible = false; break; }
+            if (ids.indexOf(cart[k].productId || cart[k].id) === -1) { allEligible = false; break; }
           }
           if (allEligible) seasonalFreeShipping = true;
         } else {
@@ -6234,45 +6237,74 @@ function stripHtmlToText(html) {
     }
   }
 
+  function bundleIdInList(ids, id) {
+    var idStr = String(id || '');
+    for (var i = 0; i < ids.length; i++) {
+      if (String(ids[i]) === idStr) return true;
+    }
+    return false;
+  }
+
+  function calcBestQuantityBundleGroupDiscount(groupBundles, unitPrices) {
+    if (!groupBundles.length || !unitPrices.length) return 0;
+    unitPrices.sort(function(a, c) { return c - a; });
+
+    var prefixSums = [0];
+    for (var i = 0; i < unitPrices.length; i++) {
+      prefixSums.push(prefixSums[prefixSums.length - 1] + unitPrices[i]);
+    }
+
+    var dp = [0];
+    for (var n = 1; n <= unitPrices.length; n++) {
+      var best = dp[n - 1] || 0;
+      for (var b = 0; b < groupBundles.length; b++) {
+        var tier = groupBundles[b];
+        if (n < tier.qty) continue;
+        var groupSum = prefixSums[n] - prefixSums[n - tier.qty];
+        var saving = Math.max(0, groupSum - tier.bPrice);
+        if (saving <= 0) continue;
+        best = Math.max(best, (dp[n - tier.qty] || 0) + saving);
+      }
+      dp[n] = best;
+    }
+    return dp[unitPrices.length] || 0;
+  }
+
   function calcQuantityBundleDiscount() {
     bundleDiscount = 0;
     if (!quantityBundles.length || !cart || !cart.length) return;
 
+    var groups = {};
     for (var i = 0; i < quantityBundles.length; i++) {
       var b = quantityBundles[i];
-      var qty = b.quantity;
-      var bPrice = b.bundlePrice;
-      if (!qty || qty < 2 || !bPrice && bPrice !== 0) continue;
+      var qty = parseInt(b.quantity, 10);
+      var bPrice = parseFloat(b.bundlePrice);
+      if (!qty || qty < 2 || !Number.isFinite(bPrice) || bPrice < 0) continue;
 
-      var ids = Array.isArray(b.eligibleProductIds) ? b.eligibleProductIds : [];
+      var ids = Array.isArray(b.eligibleProductIds) ? b.eligibleProductIds.map(function(id) { return String(id || ''); }).filter(Boolean).sort() : [];
       var appliesToAll = b.appliesTo === 'all';
       if (!appliesToAll && ids.length === 0) continue;
 
+      var key = appliesToAll ? 'all' : ('products:' + ids.join('|'));
+      if (!groups[key]) groups[key] = { appliesToAll: appliesToAll, ids: ids, bundles: [] };
+      groups[key].bundles.push({ qty: qty, bPrice: bPrice });
+    }
+
+    Object.keys(groups).forEach(function(key) {
+      var group = groups[key];
       var unitPrices = [];
       for (var j = 0; j < cart.length; j++) {
         var item = cart[j];
-        if (!appliesToAll && ids.indexOf(item.productId || item.id) === -1) continue;
+        var itemProductId = item.productId || item.id;
+        if (!group.appliesToAll && !bundleIdInList(group.ids, itemProductId)) continue;
         var uPrice = getItemPrice(item);
         var itemQty = parseInt(item.quantity, 10) || 1;
         for (var k = 0; k < itemQty; k++) {
           unitPrices.push(uPrice);
         }
       }
-
-      if (unitPrices.length < qty) continue;
-
-      unitPrices.sort(function(a, c) { return c - a; });
-
-      var fullGroups = Math.floor(unitPrices.length / qty);
-      for (var g = 0; g < fullGroups; g++) {
-        var groupSum = 0;
-        for (var m = g * qty; m < (g + 1) * qty; m++) {
-          groupSum += unitPrices[m];
-        }
-        var saving = groupSum - bPrice;
-        if (saving > 0) bundleDiscount += saving;
-      }
-    }
+      bundleDiscount += calcBestQuantityBundleGroupDiscount(group.bundles, unitPrices);
+    });
   }
 
   // Initialize coupon functionality
@@ -17681,7 +17713,7 @@ function fixContrast(){
 
 /* ZAPPY_CUSTOMER_DISCOUNT_DELAYED_REFRESH_V1 */
 
-/* ZAPPY_CART_BUNDLE_DISCOUNT_V2 — productId + fetchQuantityBundles patch */
+/* ZAPPY_CART_BUNDLE_DISCOUNT_V3 — non-stacking quantity bundle tiers */
 /* ZAPPY_CART_BUNDLE_SUMMARY_COLOR_V3 */
 ;(function(){var id='zappy-cart-bundle-summary-color-css';var css='.cart-drawer-footer .zappy-cart-summary-row{display:flex;justify-content:space-between;align-items:center;font-size:.95rem;margin-bottom:8px}.cart-drawer-footer .cart-drawer-subtotal,.cart-drawer-footer .cart-drawer-subtotal span{color:var(--zappy-cart-drawer-total-color,var(--text-light,#f9fafb))}.cart-drawer-footer .zappy-cart-discount-row{color:var(--primary-color,var(--accent,var(--primary,#059669)));font-weight:500}';var el=document.getElementById(id);if(el){el.textContent=css;}else{var s=document.createElement('style');s.id=id;s.textContent=css;(document.head||document.documentElement).appendChild(s);}function sync(){var f=document.querySelector('.cart-drawer-footer');var total=document.querySelector('.cart-drawer-footer .cart-drawer-total');if(!f||!total)return;try{var c=getComputedStyle(total).color;if(c)f.style.setProperty('--zappy-cart-drawer-total-color',c);}catch(e){}}sync();document.addEventListener('DOMContentLoaded',sync);window.addEventListener('load',sync);setTimeout(sync,50);setTimeout(sync,500);})();
 
