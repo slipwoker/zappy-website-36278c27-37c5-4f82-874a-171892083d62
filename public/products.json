@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T09:12:50.954Z",
+  "generated_at": "2026-07-15T10:15:33.799Z",
   "base_url": "https://ha-khanut-shel-merkaz-keren-or.zappy5.app",
   "currency": "ILS",
   "count": 6,
   "products": [
     {
       "id": "b3a54909-47f6-40f3-9042-f583353b8d99",
-      "slug": "trmlh-2wvf1y",
+      "slug": "trmlh-7ykqq2",
       "name": "טרמלה",
       "name_translations": {},
       "description": "<p>🌟פטריית היופי והלחות</p><p>🌟תומכת בייצור קולגן</p><p>🌟תומכת באיזון הורמונלי</p><p>🌟מפחיתה דלקת מערכתית</p><p>🌟תומכת בכבד ובמערכת הנשימה</p>",
@@ -23,13 +23,13 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/trmlh-2wvf1y",
+      "url": "https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/trmlh-7ykqq2",
       "categories": [],
-      "updated_at": "2026-07-05T14:50:08.182Z"
+      "updated_at": "2026-07-15T10:15:01.855Z"
     },
     {
       "id": "06f1dbf3-feeb-463e-8243-14e73c038e10",
-      "slug": "tsagh-mzgw5w",
+      "slug": "tsagh-dr51rf",
       "name": "צ'אגה",
       "name_translations": {},
       "description": "<p>🌟חיזוק מערכת החיסון והגנה מפני מחלות ויראליות.</p><p>🌟ניקוי רעלים והגנה על הכבד.</p><p>🌟תמיכה במערכת העיכול ובמיקרוביוטה.</p><p>🌟עידוד ריפוי תאי ושמירה על רמות אנרגיה יציבות.</p><p>&nbsp;🌟הגנה מפני נזקי רדיקלים חופשיים ותמיכה בבריאות העור.</p>",
@@ -45,9 +45,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/tsagh-mzgw5w",
+      "url": "https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/tsagh-dr51rf",
       "categories": [],
-      "updated_at": "2026-07-05T14:49:26.402Z"
+      "updated_at": "2026-07-15T10:15:31.247Z"
     },
     {
       "id": "c598f2af-b2bd-4236-b358-63234b67e85b",

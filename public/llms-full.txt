@@ -6046,7 +6046,7 @@ Description: החנות של מרכז קרן אור - תודה שפנית אלי
 ## Product Catalog
 
 ### טרמלה
-URL: https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/trmlh-2wvf1y
+URL: https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/trmlh-7ykqq2
 Price: 280.00 ILS
 Availability: In stock
 
@@ -6055,7 +6055,7 @@ Availability: In stock
 ---
 
 ### צ'אגה
-URL: https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/tsagh-mzgw5w
+URL: https://ha-khanut-shel-merkaz-keren-or.zappy5.app/product/tsagh-dr51rf
 Price: 280.00 ILS
 Availability: In stock
 
